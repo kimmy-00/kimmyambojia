@@ -20,6 +20,11 @@ a {
 	align-items: center;
 	justify-content: center;
 }
+
+body{
+	background-color: #07644d;
+  }
+  
 img {
 	height: 100%;
 	width: 100%;
